@@ -1,4 +1,4 @@
-# Encryption APP
+# Substitution Cipher App
 
 Description: Substitution Cipher that takes a key
 The Key maps like this (the number refers to the position of the letter in the Key):
