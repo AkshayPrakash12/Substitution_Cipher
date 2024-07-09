@@ -5,7 +5,7 @@ import pyautogui  # for ease of prompts and alerts
 
 def openpastkeys():  # Open past keys files
     PastKeyFile = 'Past-keys.txt'  # init var to pastkey
-    os.startfile(PastKeyFile)  # opens file on os dadwada
+    os.startfile(PastKeyFile)  # opens file on os
 
 
 def DecryptStr(): #DecryptFunct (is activated upon press of 'Decrypt' button)
